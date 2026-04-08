@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="apps/web/src/public/hollows_logo_icon_and_light.svg" alt="Hollows" width="500" />
+  <img src="apps/web/public/banner.svg" alt="Hollows — empty states, auto-generated" width="700" />
 </p>
 
 <h3 align="center">
