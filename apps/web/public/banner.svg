@@ -3,20 +3,20 @@
   <rect width="800" height="180" rx="16" fill="#fafaf9" stroke="#e7e5e4" stroke-width="1"/>
 
   <!-- Icon mark (amber) -->
-  <g transform="translate(230, 28)">
-    <rect width="80" height="80" rx="14" fill="#d97706"/>
-    <rect x="21" y="17" width="16" height="46" rx="3" fill="none" stroke="#0a0a0b" stroke-width="2.2"/>
-    <rect x="21" y="17" width="16" height="46" rx="3" fill="#0a0a0b" opacity="0.1"/>
-    <rect x="43" y="17" width="16" height="46" rx="3" fill="none" stroke="#0a0a0b" stroke-width="2.2"/>
-    <rect x="43" y="17" width="16" height="46" rx="3" fill="#0a0a0b" opacity="0.1"/>
+  <g transform="translate(195, 20)">
+    <rect width="90" height="90" rx="15" fill="#d97706"/>
+    <rect x="23" y="19" width="18" height="52" rx="3" fill="none" stroke="#0a0a0b" stroke-width="2.3"/>
+    <rect x="23" y="19" width="18" height="52" rx="3" fill="#0a0a0b" opacity="0.1"/>
+    <rect x="49" y="19" width="18" height="52" rx="3" fill="none" stroke="#0a0a0b" stroke-width="2.3"/>
+    <rect x="49" y="19" width="18" height="52" rx="3" fill="#0a0a0b" opacity="0.1"/>
   </g>
 
-  <!-- Wordmark -->
-  <text x="322" y="84" font-family="'Instrument Serif', Georgia, serif" font-size="48" fill="#1c1917" font-weight="400">hollows</text>
+  <!-- Wordmark — matched to 90px icon height -->
+  <text x="298" y="97" font-family="'Instrument Serif', Georgia, serif" font-size="80" fill="#1c1917" font-weight="400">hollows</text>
 
   <!-- Divider line -->
-  <line x1="280" y1="125" x2="520" y2="125" stroke="#e7e5e4" stroke-width="1"/>
+  <line x1="260" y1="128" x2="540" y2="128" stroke="#e7e5e4" stroke-width="1"/>
 
   <!-- Tagline -->
-  <text x="400" y="152" font-family="'Inter', -apple-system, sans-serif" font-size="14" fill="#a8a29e" text-anchor="middle" letter-spacing="1">empty states, auto-generated</text>
+  <text x="400" y="155" font-family="'Inter', -apple-system, sans-serif" font-size="14" fill="#a8a29e" text-anchor="middle" letter-spacing="1">empty states, auto-generated</text>
 </svg>
