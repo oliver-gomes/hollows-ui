@@ -9,7 +9,7 @@ import Link from 'next/link'
 
 export default function OverviewPage() {
   return (
-    <div className="px-6 lg:px-12 py-16 max-w-[900px]">
+    <div className="px-6 lg:px-12 py-16 max-w-[900px] mx-auto">
       {/* Hero */}
       <section className="mb-20">
         <motion.h1
