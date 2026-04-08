@@ -246,8 +246,9 @@ const custom = createTheme({
 ---
 
 <p align="center">
-  <a href="https://hollows-ui.vercel.app">Documentation</a> &middot;
-  <a href="https://www.npmjs.com/package/hollows-ui">npm</a>
+  <a href="https://web-iota-seven-24.vercel.app">Documentation</a> &middot;
+  <a href="https://www.npmjs.com/package/hollows-ui">npm</a> &middot;
+  <a href="https://github.com/oliver-gomes/hollows-ui">GitHub</a>
 </p>
 
 ## License
