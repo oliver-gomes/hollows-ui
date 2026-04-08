@@ -1,19 +1,22 @@
-<svg width="800" height="160" viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
-  <rect width="800" height="160" rx="16" fill="#fafaf9" stroke="#e7e5e4" stroke-width="1"/>
+  <rect width="800" height="180" rx="16" fill="#fafaf9" stroke="#e7e5e4" stroke-width="1"/>
 
   <!-- Icon mark (amber) -->
-  <g transform="translate(240, 30)">
-    <rect width="100" height="100" rx="16" fill="#d97706"/>
-    <rect x="26" y="22" width="20" height="56" rx="3" fill="none" stroke="#0a0a0b" stroke-width="2.5"/>
-    <rect x="26" y="22" width="20" height="56" rx="3" fill="#0a0a0b" opacity="0.1"/>
-    <rect x="54" y="22" width="20" height="56" rx="3" fill="none" stroke="#0a0a0b" stroke-width="2.5"/>
-    <rect x="54" y="22" width="20" height="56" rx="3" fill="#0a0a0b" opacity="0.1"/>
+  <g transform="translate(230, 28)">
+    <rect width="80" height="80" rx="14" fill="#d97706"/>
+    <rect x="21" y="17" width="16" height="46" rx="3" fill="none" stroke="#0a0a0b" stroke-width="2.2"/>
+    <rect x="21" y="17" width="16" height="46" rx="3" fill="#0a0a0b" opacity="0.1"/>
+    <rect x="43" y="17" width="16" height="46" rx="3" fill="none" stroke="#0a0a0b" stroke-width="2.2"/>
+    <rect x="43" y="17" width="16" height="46" rx="3" fill="#0a0a0b" opacity="0.1"/>
   </g>
 
   <!-- Wordmark -->
-  <text x="355" y="96" font-family="'Instrument Serif', Georgia, serif" font-size="52" fill="#1c1917" font-weight="400">hollows</text>
+  <text x="322" y="84" font-family="'Instrument Serif', Georgia, serif" font-size="48" fill="#1c1917" font-weight="400">hollows</text>
+
+  <!-- Divider line -->
+  <line x1="280" y1="125" x2="520" y2="125" stroke="#e7e5e4" stroke-width="1"/>
 
   <!-- Tagline -->
-  <text x="400" y="128" font-family="'Inter', -apple-system, sans-serif" font-size="13" fill="#a8a29e" text-anchor="middle" letter-spacing="0.5">empty states, auto-generated</text>
+  <text x="400" y="152" font-family="'Inter', -apple-system, sans-serif" font-size="14" fill="#a8a29e" text-anchor="middle" letter-spacing="1">empty states, auto-generated</text>
 </svg>
