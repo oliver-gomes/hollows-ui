@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Outer table border -->
+  <rect x="32" y="44" width="136" height="112" rx="4" />
+  <!-- Header row bottom line -->
+  <line x1="32" y1="72" x2="168" y2="72" />
+  <!-- Horizontal dashed dividers -->
+  <line x1="32" y1="100" x2="168" y2="100" stroke-dasharray="4 3" opacity="0.5" />
+  <line x1="32" y1="128" x2="168" y2="128" stroke-dasharray="4 3" opacity="0.5" />
+  <!-- Vertical dashed dividers -->
+  <line x1="78" y1="72" x2="78" y2="156" stroke-dasharray="4 3" opacity="0.5" />
+  <line x1="122" y1="72" x2="122" y2="156" stroke-dasharray="4 3" opacity="0.5" />
+  <!-- Header cell dots -->
+  <line x1="46" y1="58" x2="66" y2="58" opacity="0.4" />
+  <line x1="88" y1="58" x2="110" y2="58" opacity="0.4" />
+  <line x1="134" y1="58" x2="156" y2="58" opacity="0.4" />
+</svg>

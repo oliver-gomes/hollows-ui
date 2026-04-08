@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Heart outline with dashed stroke -->
+  <path d="M100,160 C60,130 28,100 28,72 A32,32 0 0,1 100,56 A32,32 0 0,1 172,72 C172,100 140,130 100,160 z" stroke-dasharray="6 4" />
+  <!-- Small accent dot at bottom of heart -->
+  <circle cx="100" cy="112" r="3" fill="currentColor" opacity="0.2" />
+</svg>

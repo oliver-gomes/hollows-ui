@@ -1,0 +1,18 @@
+{
+  "devServer": "http://localhost:3000",
+  "outDir": "src/hollows",
+  "theme": "minimal",
+  "illustrations": "built-in",
+  "customIllustrationsDir": null,
+  "copy": {
+    "tone": "friendly",
+    "language": "en"
+  },
+  "classifierOverrides": {},
+  "ignore": [],
+  "breakpoints": {
+    "mobile": 375,
+    "tablet": 768,
+    "desktop": 1280
+  }
+}

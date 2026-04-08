@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Bell body -->
+  <path d="M68,108 C68,68 80,44 100,44 C120,44 132,68 132,108 L140,124 H60 z" />
+  <!-- Bell bottom rim -->
+  <line x1="56" y1="124" x2="144" y2="124" />
+  <!-- Clapper -->
+  <path d="M88,124 a12,10 0 0,0 24,0" />
+  <!-- Bell top knob -->
+  <circle cx="100" cy="42" r="3" fill="currentColor" opacity="0.5" />
+  <!-- Zzz sleep marks -->
+  <text x="140" y="68" font-family="sans-serif" font-size="14" font-weight="600" fill="currentColor" stroke="none" opacity="0.5">z</text>
+  <text x="150" y="54" font-family="sans-serif" font-size="12" font-weight="600" fill="currentColor" stroke="none" opacity="0.35">z</text>
+  <text x="158" y="42" font-family="sans-serif" font-size="10" font-weight="600" fill="currentColor" stroke="none" opacity="0.2">z</text>
+</svg>

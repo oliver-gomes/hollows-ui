@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Outer dashed container/box -->
+  <rect x="40" y="48" width="120" height="104" rx="8" stroke-dasharray="6 4" />
+  <!-- Inner subtle rectangle -->
+  <rect x="60" y="68" width="80" height="64" rx="4" opacity="0.2" stroke-dasharray="4 3" />
+  <!-- Center dot -->
+  <circle cx="100" cy="100" r="4" fill="currentColor" opacity="0.3" />
+  <!-- Small decorative corner marks -->
+  <line x1="44" y1="56" x2="44" y2="48" opacity="0" />
+</svg>
