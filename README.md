@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="apps/web/public/banner.svg" alt="Hollows — empty states, auto-generated" width="700" />
+  <img src="apps/web/public/banner.svg?v=2" alt="Hollows — empty states, auto-generated" width="700" />
 </p>
 
 <h3 align="center">
