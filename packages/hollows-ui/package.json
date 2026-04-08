@@ -1,7 +1,16 @@
 {
   "name": "hollows-ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Auto-generated empty states for your UI",
+  "homepage": "https://web-iota-seven-24.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliver-gomes/hollows-ui.git",
+    "directory": "packages/hollows-ui"
+  },
+  "bugs": {
+    "url": "https://github.com/oliver-gomes/hollows-ui/issues"
+  },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
